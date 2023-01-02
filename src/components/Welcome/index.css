@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.heading {
+  font-family: Bree Serif;
+  color: #f0bb03;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.description {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.subscribe {
+  background-color: #ffffff;
+  font-size: 10px;
+  color: #1e293b;
+}
